@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99521524949",
+    "project_id": "demoproject-b9512",
+    "storage_bucket": "demoproject-b9512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99521524949:android:a96ab27051c97b4deb1e5c",
+        "android_client_info": {
+          "package_name": "com.example.demoprojectfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BWS1E6wr8COy2I29kdwGApY-RgsL8Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
